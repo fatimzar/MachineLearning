@@ -1,16 +1,13 @@
 # MachineLearning YOURNEY
 
-<p align="center"><img src="![logo](https://user-images.githubusercontent.com/99655474/173210324-298b3788-969c-407f-b418-41360644c82e.png)"></p>
+<p align="center"><img src="(https://github.com/Bangkit-Yourney-2022/MachineLearning/issues/1#issue-1268417506)"></p>
 
-## About
+## Abstract
 
-:sparkles: A curated list of awesome articles, websites and resources about mental health in the software industry. :sparkles:
+The unemployment rate for the next generation of the nation who has received approximately 12 years of education (up to high school/K, university, or diploma) is still relatively high. Not only that, there are also many teenagers who do not know the direction of their life goals and how to organize their lives to be more productive and able to support the future. Why does this happen?
+	First, Based to the Central Statistics Agency (BPS), in 2018 the number of unemployed reached 4.6 million people. That figure rises to 5.6 million in 2021 when the pandemic hits. Then, based on research from the Ministry of Health in 2018, aged 15-24 years have a fairly large probability of depression. Many of them are caused by anxiety facing the future or the quarter-life crisis phase.
+	We want to maximize the potential of the demographic bonus in Indonesia and the quarter-life crisis phase for the nation's next generation. That's why we wanted to build an application called "YOURNEY", a smart virtual assistant that provides guidance, direction, perspectives, life, and health sciences, and motivation to young people to be productive and physically and mentally healthy for a bright future.
 
-**Mental health** is a level of **psychological well-being** or **an absence of mental illness**. It's the psychological state of someone who is functioning at a satisfactory level of emotional and behavioural adjustment.
-
-It includes subjective well-being, perceived self-efficacy, autonomy, competence, inter-generational dependence, and self-actualization of one's intellectual and emotional potential, among others.
-
-> This list compiles several self-help resources we've personally found useful for a range of mental health problems, but in no way are they a replacement of professional help, psychotherapy or pharmacotherapy. **We're not experts**, and even if we were, most of these tools are meant as an aid to therapy, not as a substitute.
 
 ### Install
 
